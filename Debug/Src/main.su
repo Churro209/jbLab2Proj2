@@ -1,0 +1,12 @@
+../Inc/core_cm4.h:2059:26:ITM_SendChar	16	static,ignoring_inline_asm
+../Src/main.c:35:5:_write	32	static
+../Src/main.c:49:10:time_pressed	24	static,ignoring_inline_asm
+../Src/main.c:65:6:set_pinMode	24	static
+../Src/main.c:75:6:set_output_type	24	static
+../Src/main.c:87:6:set_pin_state	24	static
+../Src/main.c:95:6:GPIO_Clock_Enable	4	static
+../Src/main.c:100:6:GPIO_Init	8	static
+../Src/main.c:116:6:delay	24	static,ignoring_inline_asm
+../Src/main.c:128:10:get_pin_state	16	static
+../Src/main.c:135:6:toggle_LEDs	16	static
+../Src/main.c:146:5:main	16	static
